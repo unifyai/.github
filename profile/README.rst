@@ -1,4 +1,4 @@
-.. ## Hi there 👋
+.. ## 
 
 .. <!--
 
@@ -12,7 +12,7 @@
 .. -->
 
 .. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/repos/ivy/logo.png?raw=true
-   :width: 50%
+   :width: 70%
 
 .. raw:: html
 
@@ -45,4 +45,4 @@
     </div>
     <br clear="all" />
 
-**We’re on a mission to unify all ML frameworks 💥 + automate code conversions 🔄. pip install ivy-core 🚀, join our growing community 😊, and lets-unify.ai! 🦾**
+**Hi there 👋, we’re on a mission to unify all ML frameworks 💥 + automate code conversions 🔄. Join our growing community 😊, and lets-unify.ai! 🦾**
