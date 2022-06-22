@@ -11,8 +11,11 @@
 .. 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 .. -->
 
+Hello there 👋 ! Welcome to unify-ai
+==============
+
 .. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/repos/ivy/logo.png?raw=true
-   :width: 70%
+   :width: 100%
 
 .. raw:: html
 
@@ -45,4 +48,6 @@
     </div>
     <br clear="all" />
 
-**Hi there 👋, we’re on a mission to unify all ML frameworks 💥 + automate code conversions 🔄. Join our growing community 😊, and lets-unify.ai! 🦾**
+**We’re on a mission to unify all ML frameworks 💥 + automate code conversions 🔄. Join our growing community 😊, and lets-unify.ai! 🦾**
+
+Ivy is an ML framework that currently supports JAX, TensorFlow, PyTorch, MXNet, and Numpy. We’re very excited for you to try it out!
