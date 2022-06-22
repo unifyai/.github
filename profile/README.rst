@@ -12,7 +12,7 @@
 .. -->
 
 .. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/repos/ivy/logo.png?raw=true
-   :width: 100%
+   :width: 50%
 
 .. raw:: html
 
