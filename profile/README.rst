@@ -182,7 +182,6 @@ neural memory, pre-trained models + implementations, and builder tools with trai
     <br clear="all" />
 
 |
-|
 Ivy Mechanics
 -------------
 
@@ -226,7 +225,6 @@ This demo shows Neural Radiance Fields (NeRF):
    <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_vision/nerf_demo.gif?raw=true" width="50%">
 
 |
-|
 Ivy Robot
 ---------
 
@@ -245,7 +243,6 @@ This demo shows the use of :code:`ivy_robot.sample_spline_path` and :code:`ivy_r
    <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_robot/demo_b.gif?raw=true" width="50%">
 
 |
-|
 Ivy Gym
 -------
 
@@ -263,7 +260,6 @@ We show demos of each of the environments :code:`cartpole`, :code:`mountain_car`
 
    <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_gym/demo_b.gif?raw=true" width="50%">
 
-|
 |
 Ivy Memory
 ---------
