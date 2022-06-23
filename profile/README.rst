@@ -183,7 +183,6 @@ neural memory, pre-trained models + implementations, and builder tools with trai
 
 |
 |
-|
 Ivy Mechanics
 -------------
 
@@ -191,17 +190,16 @@ Ivy Mechanics
 
 For example, this demo shows the use of :code:`ivy_mech.target_facing_rotation_matrix`:
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_mech/demo_b.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
+   
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_mech/demo_a.gif?raw=true" width="50%">
 
 This demo shows the use of :code:`ivy_mech.polar_to_cartesian_coords`:
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_mech/demo_b.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
 
-|
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_mech/demo_b.gif?raw=true" width="50%">
+
 |
 |
 Ivy Vision
@@ -211,23 +209,22 @@ Ivy Vision
 
 For example, this demo shows the use of :code:`ivy_vision.coords_to_voxel_grid`:
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_vision/voxel_grid_demo.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
+
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_vision/voxel_grid_demo.gif?raw=true" width="50%">
 
 This demo shows the use of :code:`ivy_vision.render_pixel_coords`:
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_vision/point_render_demo.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
+
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_vision/point_render_demo.gif?raw=true" width="50%">
 
 This demo shows Neural Radiance Fields (NeRF):
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_vision/nerf_demo.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
 
-|
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_vision/nerf_demo.gif?raw=true" width="50%">
+
 |
 |
 Ivy Robot
@@ -237,17 +234,16 @@ Ivy Robot
 
 For example, this demo shows the use of :code:`ivy_robot.sample_spline_path` and :code:`ivy_robot.RigidMobile.sample_body` for gradient-based motion planning of a drone.
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_robot/demo_a.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
+
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_robot/demo_a.gif?raw=true" width="50%">
 
 This demo shows the use of :code:`ivy_robot.sample_spline_path` and :code:`ivy_robot.Manipulator.sample_links` for gradient-based motion planning of a robot manipulator:
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_robot/demo_b.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
 
-|
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_robot/demo_b.gif?raw=true" width="50%">
+
 |
 |
 Ivy Gym
@@ -257,17 +253,16 @@ Ivy Gym
 
 For example, we show demos of each of the environments :code:`cartpole`, :code:`mountain_car`, :code:`pendulum`, :code:`reacher`, and :code:`swimmer` solved using direct trajectory optimization below. We optimize for a specific starting state of the environment:
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_gym/demo_a.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
+
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_gym/demo_a.gif?raw=true" width="50%">
 
 We show demos of each of the environments :code:`cartpole`, :code:`mountain_car`, :code:`pendulum`, :code:`reacher`, and :code:`swimmer` solved using supervised learning via a policy network. We train a policy which is conditioned on the environment state, and the starting state is then randomized between training steps:
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_gym/demo_b.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
 
-|
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_gym/demo_b.gif?raw=true" width="50%">
+
 |
 |
 Ivy Memory
@@ -277,14 +272,12 @@ Ivy Memory
 
 For example, in this demo we learn to copy a sequence using :code:`ivy_memory.NTM`:
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_memory/demo_a.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
+
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_memory/demo_a.gif?raw=true" width="50%">
 
 In this demo we create an egocentric 3D map of a room using :code:`ivy_memory.ESM`:
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_memory/demo_b.gif?raw=true
-   :align: center
-   :width: 100%
+.. raw:: html
 
-    
+   <img src="https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/ivy_memory/demo_b.gif?raw=true" width="50%">
