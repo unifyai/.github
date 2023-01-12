@@ -158,7 +158,7 @@ neural memory, pre-trained models + implementations, and builder tools with trai
         </a>
         <img width="10%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/ecosystem/actions?query=workflow%3Adocs">
-            <img width="11%" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/github/workflow/status/unifyai/ecosystem/docs?label=docs">
+            <img width="11%" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://github.com/unifyai/ecosystem/actions/workflows/docs.yml/badge.svg">
         </a>
 
         <br clear="all" />
