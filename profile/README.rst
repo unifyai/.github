@@ -108,19 +108,19 @@ neural memory, pre-trained models + implementations, and builder tools with trai
 
         <img width="12%" style="float: left;" src="https://raw.githubusercontent.com/ivy-dl/ivy-dl.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/ivy-dl/mech/actions?query=workflow%3Anightly-tests">
-            <img width="9%" style="float: left;" src="https://img.shields.io/github/workflow/status/ivy-dl/mech/nightly-tests?label=tests">
+            <img width="9%" style="float: left;" src="https://github.com/unifyai/mech/actions/workflows/nightly-tests.yml/badge.svg">
         </a>
         <img width="13%" style="float: left;" src="https://raw.githubusercontent.com/ivy-dl/ivy-dl.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/ivy-dl/vision/actions?query=workflow%3Anightly-tests">
-            <img width="9%" style="float: left;" src="https://img.shields.io/github/workflow/status/ivy-dl/vision/nightly-tests?label=tests">
+            <img width="9%" style="float: left;" src="https://github.com/unifyai/vision/actions/workflows/nightly-tests.yml/badge.svg">
         </a>
         <img width="13%" style="float: left;" src="https://raw.githubusercontent.com/ivy-dl/ivy-dl.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/ivy-dl/robot/actions?query=workflow%3Anightly-tests">
-            <img width="9%" style="float: left;" src="https://img.shields.io/github/workflow/status/ivy-dl/robot/nightly-tests?label=tests">
+            <img width="9%" style="float: left;" src="https://github.com/unifyai/robot/actions/workflows/nightly-tests.yml/badge.svg">
         </a>
         <img width="13%" style="float: left;" src="https://raw.githubusercontent.com/ivy-dl/ivy-dl.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/ivy-dl/gym/actions?query=workflow%3Anightly-tests">
-            <img width="9%" style="float: left;" src="https://img.shields.io/github/workflow/status/ivy-dl/gym/nightly-tests?label=tests">
+            <img width="9%" style="float: left;" src="https://github.com/unifyai/gym/actions/workflows/nightly-tests.yml/badge.svg">
         </a>
 
         <br clear="all" />
@@ -165,15 +165,15 @@ neural memory, pre-trained models + implementations, and builder tools with trai
 
         <img width="12%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/memory/actions?query=workflow%3Anightly-tests">
-            <img width="9%" style="float: left;" src="https://img.shields.io/github/workflow/status/unifyai/memory/nightly-tests?label=tests">
+            <img width="9%" style="float: left;" src="https://github.com/unifyai/memory/actions/workflows/nightly-tests.yml/badge.svg">
         </a>
         <img width="13%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/builder/actions?query=workflow%3Anightly-tests">
-            <img width="9%" style="float: left;" src="https://img.shields.io/github/workflow/status/unifyai/builder/nightly-tests?label=tests">
+            <img width="9%" style="float: left;" src="https://github.com/unifyai/builder/actions/workflows/nightly-tests.yml/badge.svg">
         </a>
         <img width="13%" style="float: left;" src="https://raw.githubusercontent.com/ivy-dl/ivy-dl.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/ivy-dl/models/actions?query=workflow%3Anightly-tests">
-            <img width="9%" style="float: left;" src="https://img.shields.io/github/workflow/status/unifyai/models/nightly-tests?label=tests">
+            <img width="9%" style="float: left;" src="https://github.com/unifyai/models/actions/workflows/nightly-tests.yml/badge.svg">
         </a>
 
         <br clear="all" />
