@@ -2,7 +2,7 @@ name: Update docs
 on:
   push:
     branches:
-      - [ $default-branch ]
+      - $default-branch
     tags:
       - v*
 
