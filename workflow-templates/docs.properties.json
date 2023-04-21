@@ -1,0 +1,10 @@
+{
+    "name": "Updating docs workflow",
+    "description": "Workflow for updating the docs automatically using `unifyai/doc-builder` and deploying them on `unifyai/docs`.",
+    "iconName": "octicon book",
+    "categories": [
+        "Automation",
+        "Pages",
+        "continuous-integration"
+    ]
+}
