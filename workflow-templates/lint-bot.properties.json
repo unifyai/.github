@@ -1,0 +1,12 @@
+{
+    "name": "Fix lint",
+    "description": "Workflow to automatically fix linting using pre-commit",
+    "iconName": "octicon checklist",
+    "categories": [
+        "Automation",
+        "continuous-integration"
+    ],
+    "filePatterns": [
+        "^setup.cfg$"
+    ]
+}
