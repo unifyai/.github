@@ -1,0 +1,12 @@
+{
+    "name": "Check lint workflow",
+    "description": "Workflow to automatically check linting of the codebase",
+    "iconName": "octicon checklist",
+    "categories": [
+        "Automation",
+        "continuous-integration"
+    ],
+    "filePatterns": [
+        "^setup.cfg$"
+    ]
+}
