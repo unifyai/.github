@@ -1,5 +1,5 @@
 {
-    "name": "Check lint workflow",
+    "name": "Check lint",
     "description": "Workflow to automatically check linting of the codebase",
     "iconName": "octicon checklist",
     "categories": [

@@ -1,5 +1,5 @@
 {
-    "name": "Updating docs workflow",
+    "name": "Updating docs",
     "description": "Workflow for updating the docs automatically using `unifyai/doc-builder` and deploying them on `unifyai/docs`.",
     "iconName": "octicon book",
     "categories": [
