@@ -12,7 +12,7 @@
 .. -->
 
 Hello there! Welcome to unifyai👋
-==============
+=================================
 
 .. image:: https://github.com/unifyai/unifyai.github.io/blob/master/img/externally_linked/logo.png?raw=true
    :width: 100%
@@ -34,13 +34,13 @@ Hello there! Welcome to unifyai👋
         <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg">
     </a>
     <a href="https://pypi.org/project/ivy-core">
-        <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://badge.fury.io/py/ivy-core.svg">
+        <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/pypi/v/ivy-core">
     </a>
     <a href="https://github.com/unifyai/ivy/actions?query=workflow%3Adocs">
-        <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://github.com/unifyai/ivy/actions/workflows/docs.yml/badge.svg">
+        <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/github/actions/workflow/status/unifyai/ivy/docs.yml?label=Documentation&logo=github">
     </a>
     <a href="https://github.com/unifyai/ivy/actions?query=workflow%3Atest-ivy">
-        <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://github.com/unifyai/ivy/actions/workflows/test-ivy.yml/badge.svg">
+        <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/github/actions/workflow/status/unifyai/ivy/test-ivy-cron.yml?label=Nightly tests&logo=github">
     </a>
     <a href="https://discord.gg/G4aR9Q7DTN">
         <img style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/discord/799879767196958751?color=blue&label=%20&logo=discord&logoColor=white">
@@ -89,38 +89,38 @@ neural memory, pre-trained models + implementations, and builder tools with trai
 
         <img width="10%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://pypi.org/project/ivy-mech">
-            <img width="13%" style="float: left;" src="https://badge.fury.io/py/ivy-mech.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/pypi/v/ivy-mech">
         </a>
         <img width="9%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://pypi.org/project/ivy-vision">
-            <img width="13%" style="float: left;" src="https://badge.fury.io/py/ivy-vision.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/pypi/v/ivy-vision">
         </a>
         <img width="9%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://pypi.org/project/ivy-robot">
-            <img width="13%" style="float: left;" src="https://badge.fury.io/py/ivy-robot.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/pypi/v/ivy-robot">
         </a>
         <img width="9%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://pypi.org/project/ivy-gym">
-            <img width="13%" style="float: left;" src="https://badge.fury.io/py/ivy-gym.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/pypi/v/ivy-gym">
         </a>
 
         <br clear="all" />
 
         <img width="10%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/mech/actions?query=workflow%3Anightly-tests">
-            <img width="13%" style="float: left;" src="https://github.com/unifyai/mech/actions/workflows/nightly-tests.yml/badge.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/github/actions/workflow/status/unifyai/mech/nightly-tests.yml?label=Nightly tests&logo=github">
         </a>
         <img width="9%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/vision/actions?query=workflow%3Anightly-tests">
-            <img width="13%" style="float: left;" src="https://github.com/unifyai/vision/actions/workflows/nightly-tests.yml/badge.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/github/actions/workflow/status/unifyai/vision/nightly-tests.yml?label=Nightly tests&logo=github">
         </a>
         <img width="9%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/robot/actions?query=workflow%3Anightly-tests">
-            <img width="13%" style="float: left;" src="https://github.com/unifyai/robot/actions/workflows/nightly-tests.yml/badge.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/github/actions/workflow/status/unifyai/robot/nightly-tests.yml?label=Nightly tests&logo=github">
         </a>
         <img width="9%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/gym/actions?query=workflow%3Anightly-tests">
-            <img width="13%" style="float: left;" src="https://github.com/unifyai/gym/actions/workflows/nightly-tests.yml/badge.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/github/actions/workflow/status/unifyai/gym/nightly-tests.yml?label=Nightly tests&logo=github">
         </a>
 
         <br clear="all" />
@@ -146,34 +146,34 @@ neural memory, pre-trained models + implementations, and builder tools with trai
 
         <img width="10%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://pypi.org/project/ivy-memory">
-            <img width="13%" style="float: left;" src="https://badge.fury.io/py/ivy-memory.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/pypi/v/ivy-memory">
         </a>
         <img width="9%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://pypi.org/project/ivy-builder">
-            <img width="13%" style="float: left;" src="https://badge.fury.io/py/ivy-builder.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/pypi/v/ivy-builder">
         </a>
         <img width="9%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://pypi.org/project/ivy-models">
-            <img width="13%" style="float: left;" src="https://badge.fury.io/py/ivy-models.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/pypi/v/ivy-models">
         </a>
         <img width="10%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/ecosystem/actions?query=workflow%3Adocs">
-            <img width="11%" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://github.com/unifyai/ecosystem/actions/workflows/docs.yml/badge.svg">
+            <img width="11%" style="float: left; padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/github/actions/workflow/status/unifyai/ecosystem/docs.yml?label=Documentation&logo=github">
         </a>
 
         <br clear="all" />
 
         <img width="10%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/memory/actions?query=workflow%3Anightly-tests">
-            <img width="13%" style="float: left;" src="https://github.com/unifyai/memory/actions/workflows/nightly-tests.yml/badge.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/github/actions/workflow/status/unifyai/memory/nightly-tests.yml?label=Nightly tests&logo=github">
         </a>
         <img width="9%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/builder/actions?query=workflow%3Anightly-tests">
-            <img width="13%" style="float: left;" src="https://github.com/unifyai/builder/actions/workflows/nightly-tests.yml/badge.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/github/actions/workflow/status/unifyai/builder/nightly-tests.yml?label=Nightly tests&logo=github">
         </a>
         <img width="9%" style="float: left;" src="https://raw.githubusercontent.com/unifyai/unifyai.github.io/master/img/externally_linked/logos/empty.png">
         <a href="https://github.com/unifyai/models/actions?query=workflow%3Anightly-tests">
-            <img width="13%" style="float: left;" src="https://github.com/unifyai/models/actions/workflows/nightly-tests.yml/badge.svg">
+            <img width="13%" style="float: left;" src="https://img.shields.io/github/actions/workflow/status/unifyai/models/nightly-tests.yml?label=Nightly tests&logo=github">
         </a>
 
         <br clear="all" />
