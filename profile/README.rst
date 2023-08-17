@@ -14,7 +14,10 @@
 Hello there! Welcome to unifyai👋
 =================================
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/logo.png?raw=true
+.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/logo.png?raw=true#gh-light-mode-only
+   :width: 100%
+
+.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/logo_dark.png?raw=true#gh-dark-mode-only
    :width: 100%
 
 .. raw:: html
