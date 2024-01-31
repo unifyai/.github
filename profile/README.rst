@@ -11,13 +11,13 @@
 .. 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 .. -->
 
-Hello there! Welcome to unifyai👋
+Hello there! Welcome to Unify 👋
 =================================
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/logo.png?raw=true#gh-light-mode-only
+.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/unify_logo.png?raw=true#gh-light-mode-only
    :width: 100%
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/logo_dark.png?raw=true#gh-dark-mode-only
+.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/unify_logo_dark.png?raw=true#gh-dark-mode-only
    :width: 100%
 
 .. raw:: html
@@ -51,14 +51,21 @@ Hello there! Welcome to unifyai👋
     </div>
     <br clear="all" />
 
-**We’re on a mission to unify all ML frameworks 💥 + automate code conversions 🔄. Join our growing community 😊, and lets-unify.ai! 🦾**
-
-Ivy is an ML framework that currently supports JAX, TensorFlow, PyTorch, MXNet, and Numpy. We’re very excited for you to try it out!
+**We’re on a mission to unify the fragmented AI stack 🦾. Automate ML code conversions with Ivy :arrows_counterclockwise:, and deploy your models optimally through our Hub :rocket:**. 
 
 **What is Ivy?**
 
 Ivy is a unified machine learning framework which maximizes the portability of machine learning codebases.
-Ivy wraps the functional APIs of existing frameworks.
-Framework-agnostic functions, libraries and layers can then be written using Ivy,
+Ivy wraps the functional APIs of existing frameworks such that framework-agnostic functions, libraries and layers can be written using Ivy 
 with simultaneous support for all frameworks.
-Ivy currently supports Jax, TensorFlow, PyTorch, MXNet and Numpy. Check out the `docs <https://lets-unify.ai/ivy>`_ for more info!
+Ivy currently supports Jax, TensorFlow, PyTorch, MXNet and Numpy. Check out the `docs <https://unify.ai/docs/hub>`_ to get started!
+
+**What is the Hub?**
+
+The Hub is a collection of optimised models from various endpoint providers.
+The Hub lets you query all providers for each model with a single, unified API.
+Compare the performance of different endpoints with objective, independent and timely benchmarks,
+and deploy your models with our API to get the best performance on the metric(s) you care about.
+Check out the `docs <https://unify.ai/docs/hub>`_ for more info!
+
+Join our growing community, and lets `unify.ai <https://unify.ai/>`_ ! 😊
