@@ -11,13 +11,10 @@
 .. 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 .. -->
 
-Hello there! Welcome to Unify 👋
-=================================
-
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/unify_logo.png?raw=true#gh-light-mode-only
+.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/unify_logo_downscaled.png?raw=true#gh-light-mode-only
    :width: 100%
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/unify_logo_dark.png?raw=true#gh-dark-mode-only
+.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/unify_logo_downscaled_dark.png?raw=true#gh-dark-mode-only
    :width: 100%
 
 .. raw:: html
@@ -50,6 +47,9 @@ Hello there! Welcome to Unify 👋
        </a>
     </div>
     <br clear="all" />
+
+Hello there! Welcome to Unify 👋
+=================================
 
 **We’re on a mission to unify the fragmented AI stack 🦾. Automate ML code conversions with Ivy :arrows_counterclockwise:, and deploy your models optimally through our Hub :rocket:**. 
 
