@@ -8,7 +8,7 @@
 
 .. raw:: html
     
-    <h3 align="center">Combine All LLMs for <b>Faster, Cheaper, and Better Responses</b> Than Any Single Model! 🚀</h3>
+    <h3 align="center">Combine All LLMs for <b>Faster, Cheaper, and Better Responses</b> Than Any Single Model! ✨</h3>
     <div align="center">
        <a href="https://github.com/unifyai/unify/issues">
            <img class="dark-light" style="padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/github/issues/unifyai/ivy">
@@ -33,9 +33,15 @@
 
 What is Unify?
 ______________
-Unify is a centralized API to access all LLM endpoints and route each prompt to the best performing endpoint. With Unify you can compare the performance of different endpoints with objective, independent and timely benchmarks; and deploy your models with a single API to get the best performance on the metric(s) you care about.
+We're on a mission to unify and simplify the LLM landscape. Unify lets you:
+
+* **🔑 Use any LLM from any Provider**: With a single interface, you can use all LLMs from all providers by simply changing one string. No need to manage several API keys or handle different input-output formats. Unify handles all of that for you!
+
+* **📊 Improve LLM Performance**: Add your own custom tests and evals, and benchmark your own prompts on all models and providers. Comparing quality, cost and speed, and iterate on your system prompt until all test cases pass, and you can deploy your app!
+
+* **🔀 Route to the Best LLM**: Improve quality, cost and speed by routing to the perfect model and provider for each individual prompt.
 
 Get Started
 ___________
 
-Check out the `docs <https://unify.ai/docs/hub>`_ to learn more! Join our growing community, and lets `unify.ai <https://unify.ai/>`_ ! 😊
+Check out the `docs <https://unify.ai/docs>`_ to learn more! Join our `growing community <https://discord.com/invite/sXyFF8tDtm>`_, and lets `unify.ai <https://unify.ai/>`_ ! 😊
