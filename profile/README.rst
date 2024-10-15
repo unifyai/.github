@@ -1,6 +1,6 @@
 
 
-.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/unify_github_banner.png?raw=true
+.. image:: https://github.com/unifyai/unifyai.github.io/blob/main/img/externally_linked/gh-org-banner-02.png?raw=true
    :width: 100%
 
 .. raw:: html
