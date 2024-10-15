@@ -28,15 +28,26 @@
     </div>
     <br clear="all" />
 
-What is Unify?
+Why Unify?
 ______________
-We're on a mission to unify and simplify the LLM landscape. Unify lets you:
+LLMs are *incredibly* unpredictable. You need to be **really** sure that your application will be well behaved before releasing it out into the wild. Most existing LLM infra is too focused on “magic” demos, which can be great, but the deep layers of abstraction often obfuscate what’s actually going on 📚, making things seem much more complex than they really are…
 
-* **🔑 Use any LLM from any Provider**: With a single interface, you can use all LLMs from all providers by simply changing one string. No need to manage several API keys or handle different input-output formats. Unify handles all of that for you!
+The core building blocks of LLMs are *remarkably* simple, LLMs take in text and return text, and there are only a small number of knobs that can be turned to try and improve their performance. The process for building high-quality LLM apps is:
 
-* **📊 Improve LLM Performance**: Add your own custom tests and evals, and benchmark your own prompts on all models and providers. Compare quality, cost and speed, and iterate on your system prompt until all tests pass, and you can deploy your app!
+1. Add unit tests (evals) ❓
+2. See if they pass ✅
+3. Iterate on system message, in-context example, available tools etc. until they do 🔁
+4. Beta test with users and find failure modes from production traffic 🚦
+5. Convert these into unit tests 🗂️
+6. Repeat! 🔝
 
-* **🔀 Route to the Best LLM**: Improve quality, cost and speed by routing to the perfect model and provider for each individual prompt.
+Unify strips away all unnecessary abstractions, making it easy to start this LLM flywheel spinning for new projects, and incrementally scale them up to production-grade apps 🔥
+
+* **🔑 Use any LLM from any Provider**: With a single interface, you can use all LLMs from all providers by simply changing one string. No need to manage several API keys or handle different input-output formats!
+
+* **📊 Get your App Actually Working**: Start your LLM data flywheel, and incrementally scale up your app to get production-grade performance!
+
+* **🔀 Route to the Best LLM**: Improve speed and cost by routing to the optimal model and provider for each individual prompt.
 
 Get Started
 ___________
