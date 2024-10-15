@@ -30,18 +30,7 @@
 
 Why Unify?
 ______________
-LLMs are *incredibly* unpredictable. You need to be **really** sure that your application will be well behaved before releasing it out into the wild. Most existing LLM infra is too focused on “magic” demos, which can be great, but the deep layers of abstraction often obfuscate what’s actually going on 📚, making things seem much more complex than they really are…
-
-The core building blocks of LLMs are *remarkably* simple, LLMs take in text and return text, and there are only a small number of knobs that can be turned to try and improve their performance. The process for building high-quality LLM apps is:
-
-1. Add unit tests (evals) ❓
-2. See if they pass ✅
-3. Iterate on system message, in-context example, available tools etc. until they do 🔁
-4. Beta test with users and find failure modes from production traffic 🚦
-5. Convert these into unit tests 🗂️
-6. Repeat! 🔝
-
-Unify strips away all unnecessary abstractions, making it easy to start this LLM flywheel spinning for new projects, and incrementally scale them up to production-grade apps 🔥
+Unify strips away all unnecessary LLM abstractions, making it easy to get your LLM flywheel spinning for new projects, and seamlessly scale them up to production-grade apps 🔥
 
 * **🔑 Use any LLM from any Provider**: With a single interface, you can use all LLMs from all providers by simply changing one string. No need to manage several API keys or handle different input-output formats!
 
