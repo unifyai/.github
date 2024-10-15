@@ -5,7 +5,7 @@
 
 .. raw:: html
     
-    <h3 align="center">LLMs Run Riot in Production. Get Back in The Driving Seat. Build Your Own Evals, Iterate Quickly, and Go from Prototype to Production in No Time ⚡</h3>
+    <h3 align="center">Build Your Own Evals, Iterate Quickly, and Go from Prototype to Production in No Time ⚡</h3>
     <div align="center">
        <a href="https://github.com/unifyai/unify/issues">
            <img class="dark-light" style="padding-right: 4px; padding-bottom: 4px;" src="https://img.shields.io/github/issues/unifyai/ivy">
