@@ -41,4 +41,4 @@ Unify strips away all unnecessary LLM abstractions, making it easy to get your L
 Get Started
 ___________
 
-Check out the `docs <https://unify.ai/docs>`_ to learn more! Join our `growing community <https://discord.com/invite/sXyFF8tDtm>`_, and lets `unify.ai <https://unify.ai/>`_ ! 😊
+Check out the `docs <https://docs.unify.ai>`_ to learn more! Join our `growing community <https://discord.com/invite/sXyFF8tDtm>`_, and lets `unify.ai <https://unify.ai/>`_ ! 😊
