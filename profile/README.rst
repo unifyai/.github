@@ -1,6 +1,6 @@
 
 
-.. image:: https://raw.githubusercontent.com/unifyai/.github/main/unify_github_banner.png
+.. image:: https://raw.githubusercontent.com/unifyai/.github/main/public_images/unify_github_banner.png
    :width: 100%
 
 .. raw:: html
