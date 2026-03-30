@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>AI virtual employees that learn on the job</b>
+  <b>AI assistants with their own computer, memory, and communication channels</b>
 </p>
 
 <p align="center">
@@ -12,9 +12,9 @@
 
 ---
 
-Unify makes the leap from standalone AI agents to fully fledged virtual colleagues. These are not personal assistants you prompt and wait — they have their own name, personality, computer, and an ever-growing memory and skill set. You onboard them like any new hire: share your screen, walk them through your tools, hop on a call. They learn how your team works, ask follow-up questions, and improve over time.
+Unify builds AI assistants you onboard like new hires. Share your screen, walk them through your tools, hop on a call — they learn how your team works, ask follow-up questions, and improve over time. They have their own computer, work across email/Teams/phone, and are interruptible at any point mid-task.
 
-We built our own stack from scratch — the architecture is fundamentally different from existing agent frameworks. The brain is open-source under MIT.
+The brain is a distributed system of specialized state managers coordinated through steerable async tool loops. Open-source under MIT.
 
 ### Repositories
 
@@ -26,6 +26,6 @@ We built our own stack from scratch — the architecture is fundamentally differ
 
 ### Learn more
 
-- **[Watch the launch video](https://youtu.be/qjSWiCd8Bq8)** — see how human a virtual colleague can actually feel
+- **[Watch the launch video](https://youtu.be/qjSWiCd8Bq8)** — hiring, onboarding, multi-channel collaboration, computer use
 - **[Read the architecture](https://github.com/unifyai/unity/blob/staging/ARCHITECTURE.md)** — nested steerable tool loops, CodeAct over typed primitives, dual-brain voice
-- **[Try it out](https://unify.ai)** — sign up and meet your new teammate
+- **[Try it out](https://unify.ai)** — sign up and start onboarding
