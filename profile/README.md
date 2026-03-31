@@ -3,11 +3,17 @@
 </p>
 
 <p align="center">
-  <b>AI virtual colleagues that learn on the job</b>
+  <b>Virtual colleagues that learn on the job</b>
 </p>
 
 <p align="center">
   <a href="https://unify.ai">Website</a> · <a href="https://youtu.be/qjSWiCd8Bq8">Launch Video</a> · <a href="https://docs.unify.ai">Docs</a> · <a href="https://discord.gg/unify">Discord</a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/qjSWiCd8Bq8">
+    <img src="https://img.youtube.com/vi/qjSWiCd8Bq8/maxresdefault.jpg" alt="Watch the launch video" width="100%">
+  </a>
 </p>
 
 ---
