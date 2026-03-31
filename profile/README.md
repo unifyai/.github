@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://unify.ai">Website</a> · <a href="https://youtu.be/qjSWiCd8Bq8">Launch Video</a> · <a href="https://docs.unify.ai">Docs</a> · <a href="https://discord.gg/unify">Discord</a>
+  <a href="https://unify.ai">Website</a> · <a href="https://youtu.be/qjSWiCd8Bq8">Launch Video</a> · <a href="https://docs.unify.ai">Docs</a> · <a href="https://discord.com/invite/sXyFF8tDtm">Discord</a>
 </p>
 
 <p align="center">
@@ -26,4 +26,4 @@ The brain is a distributed system of specialized state managers coordinated thro
 
 - **[Watch the launch video](https://youtu.be/qjSWiCd8Bq8)** — hiring, onboarding, multi-channel collaboration, computer use
 - **[Try it out](https://unify.ai)** — sign up and start onboarding
-- **[Join the Discord](https://discord.gg/unify)** — be the first to know when we open-source
+- **[Join the Discord](https://discord.com/invite/sXyFF8tDtm)** — be the first to know when we open-source
