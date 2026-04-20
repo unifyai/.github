@@ -10,12 +10,6 @@
   <a href="https://unify.ai">Website</a> · <a href="https://youtu.be/qjSWiCd8Bq8">Launch Video</a> · <a href="https://docs.unify.ai">Docs</a> · <a href="https://discord.com/invite/sXyFF8tDtm">Discord</a>
 </p>
 
-<p align="center">
-  <a href="https://youtu.be/qjSWiCd8Bq8">
-    <img src="https://img.youtube.com/vi/qjSWiCd8Bq8/maxresdefault.jpg" alt="Watch the launch video" width="100%">
-  </a>
-</p>
-
 ---
 
 Unify builds virtual colleagues you onboard like new hires. Share your screen, walk them through your tools, hop on a call — they learn how your team works, ask follow-up questions, and improve over time. They have their own computer, work across email/Teams/phone, and are interruptible at any point mid-task.
