@@ -14,7 +14,7 @@
 
 Unify builds virtual colleagues you onboard like new hires. Share your screen, walk them through your tools, hop on a call — they learn how your team works, ask follow-up questions, and improve over time. They have their own computer, work across email/Teams/phone, and are interruptible at any point mid-task.
 
-The brain is a distributed system of specialized state managers coordinated through steerable async tool loops. We're preparing to open-source the full stack under a permissive license — source code, architecture docs, and contribution guidelines will be available soon.
+The brain is a distributed system of specialized state managers coordinated through steerable async tool loops.
 
 ### Learn more
 
