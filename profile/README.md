@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/unifyai/.github/main/public_images/unify_github_banner.png" alt="Unify" width="100%">
+  <img src="https://raw.githubusercontent.com/unifyai/.github/main/public_images/droid_github_banner.png" alt="Unify" width="100%">
 </p>
 
 <p align="center">
