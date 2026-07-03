@@ -1,0 +1,40 @@
+# Lightweight PR checks for org profile and workflow templates.
+#
+# unifyai/.github holds org metadata and reusable workflow templates, not
+# application runtime code. This workflow gives Vanta a pull_request status
+# check without pretending to be a full product CI pipeline.
+
+name: PR checks
+
+on:
+  pull_request:
+    branches:
+      - main
+      - staging
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Validate workflow template YAML
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          templates=(workflow-templates/*.yml)
+          if [ "${#templates[@]}" -eq 0 ]; then
+            echo "No workflow templates found."
+            exit 1
+          fi
+          for template in "${templates[@]}"; do
+            ruby -ryaml -e "YAML.load_file('$template')"
+            echo "Valid YAML: $template"
+          done
+
+      - name: Validate org profile assets
+        run: |
+          set -euo pipefail
+          test -s profile/README.md
+          test -d public_images
