@@ -1,23 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/unifyai/.github/main/public_images/unify-github-readme-banner-dark.png" alt="Unify" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/unifyai/.github/main/public_images/unify-readme-banner-dark.png">
+    <img src="https://raw.githubusercontent.com/unifyai/.github/main/public_images/unify-readme-banner-light.png" alt="unify" width="100%">
+  </picture>
 </p>
 
-<p align="center">
-  <b>Virtual colleagues that learn on the job</b>
-</p>
+unify is a research lab working on continual learning: systems that improve from a stream of experience without forgetting what they know.
 
-<p align="center">
-  <a href="https://unify.ai">Website</a> · <a href="https://youtu.be/qjSWiCd8Bq8">Launch Video</a> · <a href="https://docs.unify.ai">Docs</a> · <a href="https://discord.com/invite/sXyFF8tDtm">Discord</a>
-</p>
-
----
-
-Unify builds virtual colleagues you onboard like new hires. Share your screen, walk them through your tools, hop on a call — they learn how your team works, ask follow-up questions, and improve over time. They have their own computer, work across email/Teams/phone, and are interruptible at any point mid-task.
-
-The brain is a distributed system of specialized state managers coordinated through steerable async tool loops.
-
-### Learn more
-
-- **[Watch the launch video](https://youtu.be/qjSWiCd8Bq8)** — hiring, onboarding, multi-channel collaboration, computer use
-- **[Try it out](https://unify.ai)** — sign up and start onboarding
-- **[Join the Discord](https://discord.com/invite/sXyFF8tDtm)** — be the first to know when we open-source
+[unify.ai](https://unify.ai)
