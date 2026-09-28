@@ -5,6 +5,6 @@
   </picture>
 </p>
 
-unify is a research lab working on continual learning: systems that improve from a stream of experience without forgetting what they know.
+unify builds continual learning for production agents. It post-trains your agent's model on its own production work, so corrections, retries and outcomes become weight updates, gated by your evals.
 
 [unify.ai](https://unify.ai)
