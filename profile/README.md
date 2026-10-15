@@ -5,6 +5,8 @@
   </picture>
 </p>
 
-unify builds continual learning for production agents. It post-trains your agent's model on its own production work, so corrections, retries and outcomes become weight updates, gated by your evals.
+unify is building continual learning for the agents companies have already built, training the model to drive their own harness, so the agent gets faster and cheaper the more it runs, on a model they own.
+
+We publish the research behind it, starting with [Continual-ARC](https://unify.ai/blog/why-we-built-continual-arc).
 
 [unify.ai](https://unify.ai)
