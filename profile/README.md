@@ -5,8 +5,8 @@
   </picture>
 </p>
 
-unify is building continual learning for the agents companies have already built, training the model to drive their own harness, so the agent gets faster and cheaper the more it runs, on a model they own.
+unify does research on agents that learn from experience, getting better at their work the way people do.
 
-We publish the research behind it, starting with [Continual-ARC](https://unify.ai/blog/why-we-built-continual-arc).
+We publish what we find, starting with [Continual-ARC](https://continual-arc.unify.ai), a benchmark that measures skill acquisition over a working lifetime.
 
 [unify.ai](https://unify.ai)
